@@ -76,6 +76,17 @@
     <None Include="解答\011.sql" />
     <None Include="解答\012.sql" />
     <None Include="解答\013.sql" />
+    <None Include="解答\014.sql" />
+    <None Include="解答\015.sql" />
+    <None Include="解答\016.sql" />
+    <None Include="解答\017.sql" />
+    <None Include="解答\018.sql" />
+    <None Include="解答\019.sql" />
+    <None Include="解答\020.sql" />
+    <None Include="解答\021.sql" />
+    <None Include="解答\022.sql" />
+    <None Include="解答\023.sql" />
+    <None Include="解答\024.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="データ準備\DataInitializer.sql.backup" />
