@@ -4,3 +4,7 @@
 # 環境
 * Visual Studio 2019
 * SQL Server（Microsoft SQL Server Data Tools）
+
+# 補足
+* 見つけた重複データは削除したため、Webページの解答と異なる場合があります
+* WebページではMySQLを利用していますが、今回はSQL Serverを利用しているため、DBMSの違いによるSQL文の差があります
